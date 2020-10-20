@@ -1,2 +1,99 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello title</title>
+    <script type="text/javascript">
+      window.onload = function() {
+        alert("click for homework");
+      };
+    </script>
+    <style type="text/css">
+      body {color:rgb(2, 51, 2)}
+      .alert {color:red}
+    </style>
+  </head>
+  <body>
+    <a href="#Rick"> Get Rick</a>
+    <h1>H1: Hello World!</h1>
+    <p>
+      This is a <b class="alert">paragraph</b>
+    </p>
+    <h2>H2: About Us</h2>
+    <p>
+      I am learning HTML
+    </p>
+    <h3>H3: Company History</h3>
+    <p>
+      We've been around for a while.
+    </p>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    <p>
+      This paragraph is larger than H6!
+    </p>
+    <pre>
+        What is love
+        Baby don't hurt me
+        Don't hurt me
+        Oh no
+      </pre>
+      <p>
+        3<sup>3</sup>=9
+      </p>
+      <p>
+        The basic formula for alcohol is -O<sub>H</sub>.
+      </p>
+      <p>
+        This distance travelled from Springfield to St.&nbsp;Louis along
+        I&nbsp;44 is 216&nbsp;miles.
+      </p>
+    <h3>Lists</h3>
+    <ol>
+      <li>Apples</li>
+      <li>Oranges</li>
+      <li>Pears</li>
+    </ol>
+    <ul>
+      <li>Washington</li>
+      <li>Lincoln</li>
+      <li>Jefferson</li>
+    </ul>
+    <dl>
+      <dt>Ordered Lists</dt>
+      <dd>For ordered items</dd>
+      <dt>UnOrdered Lists</dt>
+      <dd>For unordered items</dd>
+      <dt>Definition Lists</dt>
+      <dd>To define terms
+    </dl>
+    <table>
+        <thead>
+          <tr>
+            <th>Col 1</th>
+            <th colspan="2">German Auto's</th>
+            <th>Col 4</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>BMW</td>
+            <td>AUDI</td>
+            <td>VW</td>
+            <td>PORSCHE</td>
+          </tr>
+        </tbody>
+      </table>
+  </body>
+  <footer>
+    <pre  id= "Rick">
+        Never gonna give you up
+        Never gonna let you down
+        Never gonna run around and desert you
+        Never gonna make you cry
+        Never gonna say goodbye
+        Never gonna tell a lie and hurt you</pre>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</footer>
+</html>
